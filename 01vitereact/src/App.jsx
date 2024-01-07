@@ -1,7 +1,16 @@
+
+import Chai from "./chai"
 function App() {
   return (
-    <h1>Chai aur react with vite</h1>
+   <>
+   <Chai/>
+   <h1>Chai aur React</h1>
+   <p>test para</p>
+   </>
   )
 }
 
 export default App
+
+
+// npm run dev
